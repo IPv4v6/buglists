@@ -1,5 +1,11 @@
 # systemd
 
+## GitHub Issues
+
+| Issue ID | Subject |
+|----------|---------|
+|[6237](https://github.com/systemd/systemd/issues/6237)|systemd can't handle the process previlege that belongs to user name startswith number, such as 0day|
+
 ## GitHub Pull requests
 
 | PR ID | Subject |
