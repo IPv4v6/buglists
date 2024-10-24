@@ -5,6 +5,7 @@
 | Issue ID | Subject |
 |----------|---------|
 |[6237](https://github.com/systemd/systemd/issues/6237)|systemd can't handle the process previlege that belongs to user name startswith number, such as 0day|
+|[33083](https://github.com/systemd/systemd/issues/33083)|user session fails to resume from suspend when user is using NFS or KVM|
 
 ## GitHub Pull requests
 
